@@ -1,0 +1,81 @@
+{
+	"profiles":[
+		{
+			"basics":{
+				"name":"Koteru Yogi Nikhileswara Reddy",
+				"role":"Student",
+				"email":"yoginikhil389@gmail.com",
+				"mobile":"+917989903036",
+				"gender":"male",
+				"address":"Nandigama,Andhra pradesh"
+
+			},
+			"summery":[
+				"I am Fresher in computer science engineering",
+                "But i having knowledge in some technologies like HTML5,CSS3,and Javascript",
+                "Having knowledge on Python, C++,React",
+                "Used different kinds of frameworks for backend i.e Codeigniter,Django and Express",
+                "Used databases like mySql,oracle and firebase"
+
+			],
+			"education":[
+				{
+                    "degree":"B-Tech (Computer Science and Engineering)",
+                    "institute":"Lakireddy balireddy College of Engineering",
+                    "result":"96%"
+				},
+				{
+                    "degree":"Intermediate in MPC",
+                    "institute":"Sri Chaitanya Junior College",
+                    "result":"94%"
+				},
+				{
+                    "degree":"S.S.C",
+                    "institute":"Sree vidya high school",
+                    "result":"94%"
+				}
+
+
+			]
+		},
+	    {
+	    	"basics":{
+				"name":"siva",
+				"role":"Student",
+				"email":"siva480@gmail.com",
+				"mobile":"+91 6309093458",
+				"gender":"male",
+				"address":"vijayawada,Andhra pradesh"
+
+			},
+			"summery":[
+				"I am Fresher in computer science engineering",
+                "But i having knowledge in some technologies like HTML5,CSS3,and Javascript",
+                "Having knowledge on Python, C++,React",
+                "Used different kinds of frameworks for backend i.e ,Django and Express",
+                "Used databases like mySql,oracle"
+
+			],
+			"education":[
+				{
+                    "degree":"B-Tech (Computer Science and Engineering)",
+                    "institute":"Lakireddy balireddy College of Engineering",
+                    "result":"96%"
+				},
+				{
+                    "degree":"Intermediate in MPC",
+                    "institute":"Sri Chaitanya Junior College",
+                    "result":"95%"
+				},
+				{
+                    "degree":"S.S.C",
+                    "institute":"Amali e.m high school",
+                    "result":"94%"
+				}
+
+
+			]
+	    }
+		
+	]
+}
